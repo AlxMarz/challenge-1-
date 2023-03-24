@@ -2,6 +2,10 @@
 
 ## Alex Marquez
 
+## Description
+Horiseo is a desiged to help companies improve their SEO along with online repuation and social media marketing.
+
+
 ### User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -21,4 +25,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+### Preview
+```md
+![Horiseo website](assets/images/Capture.PNG)
+```
 
+### Credits
+Horiseo
+Alex Marquez
